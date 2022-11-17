@@ -19,10 +19,8 @@ namespace Лабораторная_работа___13
         {
             Console.Write("Введите X: ");
             double x = Convert.ToDouble(Console.ReadLine());
-            
+            x = Sum();
             print f(' gigigigigigi'); 
-                
-            x = 0; //Missing Sum()
             Console.Write("X = ");
             Console.Write(x);
             Console.Read();
